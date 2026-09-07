@@ -196,6 +196,7 @@ At project start, you are assigned an **A-Maze-ing** package from another group:
 - The parameter `PERFECT` will be set to `False` to produce Pac-Man-compatible corridors (see A-Maze-ing subject).
 - If the generator fails, you must handle the error cleanly.
 
+
 ### V.5 Highscore system
 You must implement a persistent highscore system.
 
